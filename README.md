@@ -91,10 +91,6 @@ The application uses **Provider** for state management, helping manage applicati
 
 
 
-## Screenshots
 
-### Splash Screen
-
-![FlashLearn Splash Screen](screenshots/splash_screen.png)
 
 This project is created for educational purposes.
